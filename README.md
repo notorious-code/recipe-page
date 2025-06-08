@@ -13,9 +13,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-## Overview
+👉 [View it online](https://notorious-code.github.io/recipe-page/)
 
-### Screenshot
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3 (Flexbox + Grid)
+
+## 📁 Folder Structure
 
 ![Recipe Page Screenshot](preview.jpg)
 
