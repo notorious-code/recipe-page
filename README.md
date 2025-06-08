@@ -19,11 +19,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ![Recipe Page Screenshot](preview.jpg)
 
-### Links
-
-- Solution URL: [https://github.com/JohnMwendwa/recipe-page](https://github.com/JohnMwendwa/recipe-page)
-- Live Site URL: [https://johnmwendwa.github.io/recipe-page/](https://johnmwendwa.github.io/recipe-page/)
-
 ## My process
 
 ### Built with
@@ -36,8 +31,3 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### What I learned
 
 - Styling a table
-
-## Author
-
-- Website - [John Mwendwa](https://johnmwendwa.vercel.app/)
-- Frontend Mentor - [@JohnMwendwa](https://www.frontendmentor.io/profile/JohnMwendwa)
